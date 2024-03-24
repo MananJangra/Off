@@ -75,11 +75,14 @@
 .head {
     position: relative;
     margin: -75px 0 -30px;
-    height: 580px;
+    height: 620px;
     z-index: -1;
+    background-image: url(assets/images/about_BG_final.jpg);
+
 }
 
-.head::after {
+
+/* .head::after {
     content: "";
     display: block;
     position: absolute;
@@ -91,7 +94,7 @@
     background-size: cover;
     background-position: center center;
     box-sizing: border-box;
-}
+} */
 
 
 
