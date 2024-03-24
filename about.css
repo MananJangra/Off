@@ -87,7 +87,7 @@
     top: 0;
     width: 100%;
     height: 100%;
-    background-image: url(../assets/images/about_BG_final.jpg);
+    background-image: url("assets/images/about_BG_final.jpg");
     background-size: cover;
     background-position: center center;
     box-sizing: border-box;
